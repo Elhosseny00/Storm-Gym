@@ -1,0 +1,35 @@
+{
+  "files": {
+    "main.css": "/Storm-Gym/static/css/main.43b3b3f8.css",
+    "main.js": "/Storm-Gym/static/js/main.0318cb20.js",
+    "static/js/787.cec4c22a.chunk.js": "/Storm-Gym/static/js/787.cec4c22a.chunk.js",
+    "static/media/fa-solid-900.ttf": "/Storm-Gym/static/media/fa-solid-900.d75e3fd1eb12e9bd6655.ttf",
+    "static/media/fa-brands-400.ttf": "/Storm-Gym/static/media/fa-brands-400.016b4a6cdced82ab3aa1.ttf",
+    "static/media/log&sign.webp": "/Storm-Gym/static/media/log&sign.9ecf825c731043578519.webp",
+    "static/media/fa-solid-900.woff2": "/Storm-Gym/static/media/fa-solid-900.b6879d41b0852f01ed5b.woff2",
+    "static/media/fa-brands-400.woff2": "/Storm-Gym/static/media/fa-brands-400.878f31251d960bd6266f.woff2",
+    "static/media/landing.webp": "/Storm-Gym/static/media/landing.22b3d0e32990d185730a.webp",
+    "static/media/about.webp": "/Storm-Gym/static/media/about.92ad01172dbcfc11f889.webp",
+    "static/media/fa-regular-400.ttf": "/Storm-Gym/static/media/fa-regular-400.50701fbb8177c2dde530.ttf",
+    "static/media/test-2.webp": "/Storm-Gym/static/media/test-2.55af5add93e67db931fc.webp",
+    "static/media/team-5.webp": "/Storm-Gym/static/media/team-5.eeb279c8aa6f6342e69c.webp",
+    "static/media/contact.png": "/Storm-Gym/static/media/contact.088622c3da1e983a5f13.png",
+    "static/media/team-4.webp": "/Storm-Gym/static/media/team-4.f50fe257281e6603b0f4.webp",
+    "static/media/fa-regular-400.woff2": "/Storm-Gym/static/media/fa-regular-400.b041b1fa4fe241b23445.woff2",
+    "static/media/test-3.webp": "/Storm-Gym/static/media/test-3.362d5feb073b861877a4.webp",
+    "static/media/team-2.webp": "/Storm-Gym/static/media/team-2.47a4812bd6032cebb609.webp",
+    "static/media/team-3.webp": "/Storm-Gym/static/media/team-3.324196d241f12bd2e261.webp",
+    "static/media/team-1.webp": "/Storm-Gym/static/media/team-1.7a47e4bb0f186ddb39d1.webp",
+    "static/media/test-1.webp": "/Storm-Gym/static/media/test-1.707d13043dcaddf768f4.webp",
+    "static/media/fa-v4compatibility.ttf": "/Storm-Gym/static/media/fa-v4compatibility.c6a0c95b0a95c4553700.ttf",
+    "static/media/fa-v4compatibility.woff2": "/Storm-Gym/static/media/fa-v4compatibility.1bac2991f3dbfa237aec.woff2",
+    "index.html": "/Storm-Gym/index.html",
+    "main.43b3b3f8.css.map": "/Storm-Gym/static/css/main.43b3b3f8.css.map",
+    "main.0318cb20.js.map": "/Storm-Gym/static/js/main.0318cb20.js.map",
+    "787.cec4c22a.chunk.js.map": "/Storm-Gym/static/js/787.cec4c22a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.43b3b3f8.css",
+    "static/js/main.0318cb20.js"
+  ]
+}
